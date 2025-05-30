@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2025-05-30 18:15:07,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-05-31 06:13:22,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV-2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV-5+,http://111.43.126.240:9003/hls/81/index.m3u8
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
 CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
@@ -19,13 +20,14 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
+CCTV-16,http://111.43.126.240:9003/hls/86/index.m3u8
 CCTV-17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://171.15.18.199:8180/TV00000000000000000025@HHZT
@@ -43,8 +45,8 @@ CCTV-17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://171.15.18.199:8180/TV00000000000000000036@HHZT
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
