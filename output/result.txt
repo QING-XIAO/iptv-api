@@ -1,18 +1,18 @@
 🕘️更新时间,#genre#
-2025-06-01 06:13:00,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-06-01 18:16:17,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV-2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
-CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
-CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
+CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -24,8 +24,8 @@ CCTV-17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://171.15.18.199:8180/TV00000000000000000025@HHZT
