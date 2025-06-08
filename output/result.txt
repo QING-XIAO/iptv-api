@@ -1,16 +1,18 @@
 🕘️更新时间,#genre#
-2025-06-08 06:12:27,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-06-08 18:13:54,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV-2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
+CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
-CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
+CCTV-7,http://121.17.146.34:50003/hls/7/index.m3u8
+CCTV-8,http://121.17.146.34:50003/hls/8/index.m3u8
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
 CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
@@ -21,6 +23,7 @@ CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
@@ -31,7 +34,6 @@ CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://119.32.12.17:2901/udp/224.1.100.10:11111
-广西卫视,http://121.17.146.34:50003/hls/56/index.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -44,8 +46,11 @@ CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视,http://121.17.146.34:50003/hls/48/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
 云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.21:11111
+云南卫视,http://121.17.146.34:50003/hls/55/index.m3u8
 
 🎬电影频道,#genre#
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
